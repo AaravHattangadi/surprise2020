@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+.body {
+background: linear-gradient(180deg, rgba(242,242,242,1) 0%, rgba(219,219,219,1) 67%, rgba(164,164,164,1) 100%);
+margin: 0;
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+
+.image {
+    position: absolute;
+    top: 10%;
+    left: 7%;
+    border: 25px solid #fff
+}
+
+.surpriseBtn {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    font-size: xxx-large;
+    padding: 14px 40px;
+    background-color: #F44336;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+
